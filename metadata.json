@@ -1,0 +1,7 @@
+{
+  "name": "Radar Vanguarda IA",
+  "description": "Plataforma avançada de IA para jornalismo investigativo, apuração automática de dados públicos e planejamento editorial inteligente.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
